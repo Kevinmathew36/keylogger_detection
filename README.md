@@ -78,7 +78,8 @@ Contributions are welcome. If you'd like to contribute:
 
 ## License
 
-Specify your license here (e.g., MIT). If you don't have a license yet, add one to the repository to clarify terms.
+No licence is issued. I dont have any other issues of it being used  for learning and diagnostics
+
 
 ## Contact
 
